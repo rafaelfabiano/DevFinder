@@ -16,7 +16,6 @@ app.use(routes);
 app.listen(3333);//porta que esta sendo usada
 
 
-
 //metodos HTTP: get, post, put, delete
 
 //Tipos de Parametros: 
